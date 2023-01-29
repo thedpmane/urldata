@@ -2,7 +2,7 @@
   "SeaFood": [
     {
       "id": 1,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Tilapia (Jalebi) Medium - Fillet",
       "des_1": "Nakhre that make fish fly - cut, cleaned for your pan",
       "Weight": "250gms",
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Pearl Spot (Karimeen/Pattai) Medium Whole, Cleaned With Head",
       "des_1": "Also called Karimeen, Karimeenu, Patai",
       "Weight": "400gms",
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Tilapia (Jalebi) Large - Fillet",
       "des_1": "Mild-tasting, white-fleshed low in fat Tilapia cut into fillets.",
       "Weight": "250gms",
@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Anchovy (Nethili/Kollathuru) Medium - Whole, Cleaned",
       "des_1": "Head-removed, gutted & cleaned, slim, silvery skinned, bite-sized, bony, flavourful, saltwater fish",
       "Weight": "250gms",
@@ -52,7 +52,7 @@
     },
     {
       "id": 5,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Tilapia (Jalebi) Small - Whole Cleaned & Gutted",
       "des_1": "Also called Jilapi, Jilaebi, Philopy, Filopi, Chilapi",
       "Weight": "500gms",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Tilapia (Jalebi) Small - Fillet",
       "des_1": "Also called Jilapi, Jilaebi, Philopy, Filopi, Chilapi",
       "Weight": "250gms",
@@ -74,7 +74,7 @@
     },
     {
       "id": 7,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Tilapia (Jalebi) Medium - Bengali Cut, No Head",
       "des_1": "Mild-tasting, white-fleshed, low in fat Tilapia cut Bengali style (without head) ideal for weight watchers.",
       "Weight": "500gms",
@@ -86,7 +86,7 @@
     },
     {
       "id": 8,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Flower Shrimp/ Seegadi (Small) - Cleaned & Deveined",
       "des_1": "Juicy & delicious, perfect for pakoras and pan-fried dishes",
       "Weight": "250gms",
@@ -98,7 +98,7 @@
     },
     {
       "id": 9,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Black Pomfret (Paplet/Avoli/Chandi/Manji) Small - Steaks",
       "des_1": "Also called Vaaval, Halwa, Avoli, Chanduva, Manji",
       "Weight": "300gms",
@@ -110,7 +110,7 @@
     },
     {
       "id": 10,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Emperor (Erimeenu) Medium - Steaks",
       "des_1": "Also called Vela, Vilai Meen, Yeri Meen, Sheri",
       "Weight": "500gms",
@@ -122,7 +122,7 @@
     },
     {
       "id": 11,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "King Fish (Kadal/Anjal) Large - Steaks",
       "des_1": "Also called Kadal Viral, Motha, Cobia",
       "Weight": "500gms",
@@ -135,7 +135,7 @@
     },
     {
       "id": 12,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Pink Perch (Kendai/Madumagala) Small Whole, Cleaned With Head",
       "des_1": "Also called Sankara, Madumagala, Kili Meen",
       "Weight": "300gms",
@@ -147,7 +147,7 @@
     },
     {
       "id": 13,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Trevally (Kodavai) - Steaks",
       "des_1": "Also called Vatta, Parava, Thenga Parai, Paarai",
       "Weight": "500gms",
@@ -159,7 +159,7 @@
     },
     {
       "id": 14,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Yellowfin Tuna (Kera) Medium - Cubes",
       "des_1": "Also called Choora, Toora Chepa, Soora, Gedare, Kupa",
       "Weight": "300gms",
@@ -171,7 +171,7 @@
     },
     {
       "id": 15,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Rohu (Rui) Medium - Bengali Cut, No Head",
       "des_1": "Nakhre that fly fish to you, cut & cleaned for curries",
       "Weight": "500gms",
@@ -184,7 +184,7 @@
     },
     {
       "id": 16,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Freshwater/ White Prawns/ Seegadi (Medium) - Cleaned & Deveined",
       "des_1": "Freshwater prawns. De-shelled, cleaned, deveined, butterflied prawns, with head and tail removed.",
       "Weight": "250gms",
@@ -195,7 +195,7 @@
     },
     {
       "id": 17,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Catla (Theppu) Medium - Bengali Cut, No Head",
       "des_1": "Also called Katla, Botchee, Kendai, Theppu, Carp",
       "Weight": "500gms",
@@ -208,7 +208,7 @@
     },
     {
       "id": 18,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Seer (Vanjaram/Surmai) Small - Steaks",
       "des_1": "Also called Surmai, Vanjaram, Neymeen, Anjal, Ser Maach",
       "Weight": "350gms",
@@ -220,7 +220,7 @@
     },
     {
       "id": 19,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Freshwater/ White Prawns/ Seegadi (Medium) - Cleaned & Deveined (Large Pack)",
       "des_1": "Fresh nakhre for freshwater prawns, that's cleaned & delivered",
       "Weight": "500gms",
@@ -232,7 +232,7 @@
     },
     {
       "id": 20,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Roopchand (Chanduva) - Steaks",
       "des_1": "Also called Rupchanda, Paaku, Chanduva",
       "Weight": "500gms",
@@ -246,7 +246,7 @@
   "Chicken": [
     {
       "id": 1,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Thigh Boneless",
       "des_1": "Fresh nakhre for fresh, juicy & tender chicken thigh cuts",
       "Weight": "450gms",
@@ -258,7 +258,7 @@
     },
     {
       "id": 2,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Drumstick - Pack Of 6",
       "des_1": "Juicy, meaty pieces by a dedicated team of Nakhrebaaz",
       "Weight": "Pieces: 6",
@@ -270,7 +270,7 @@
     },
     {
       "id": 3,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Mince/ Keema (Large Pack)",
       "des_1": "Boneless, minced chicken for a variety of dishes",
       "Weight": "900gms",
@@ -282,7 +282,7 @@
     },
     {
       "id": 4,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Breast Fillet - Thinly Sliced",
       "des_1": "Moist tender chicken best for steaks, and BBQ chicken.",
       "Weight": "450gms",
@@ -294,7 +294,7 @@
     },
     {
       "id": 5,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Boneless - Mini Bites",
       "des_1": "Bite-sized pieces of boneless chicken for pizza & more",
       "Weight": "250gms",
@@ -305,7 +305,7 @@
     },
     {
       "id": 6,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Mince (Keema)",
       "des_1": "Tender, perfectly ground meat from our Nakhrebaaz team!",
       "Weight": "450gms",
@@ -317,7 +317,7 @@
     },
     {
       "id": 7,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Breast Boneless (Large Pack)",
       "des_1": "Tender, boneless fillets of chicken cut from the breast",
       "Weight": "900gms",
@@ -328,7 +328,7 @@
     },
     {
       "id": 8,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Tenders Boneless",
       "des_1": "9-15 pieces of boneless chicken cut from the tenderloin",
       "Weight": "350gms",
@@ -340,7 +340,7 @@
     },
     {
       "id": 9,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Leg - Boneless Cubes",
       "des_1": "12-15 boneless leg and thigh pieces",
       "Weight": "450gms",
@@ -352,7 +352,7 @@
     },
     {
       "id": 10,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Curry Cut - Small Pieces",
       "des_1": "Fresh Nakhre & fresh bone-in & boneless chicken cuts",
       "Weight": "500gms",
@@ -364,7 +364,7 @@
     },
     {
       "id": 11,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Curry Cut - Small Pieces (Large Pack)",
       "des_1": "Bone-in chunky pieces of skinless chicken",
       "Weight": "1000gms",
@@ -375,7 +375,7 @@
     },
     {
       "id": 12,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Wings with Skin",
       "des_1": "Cut & cleaned Chicken Wings with Skin",
       "Weight": "Pieces: 6",
@@ -386,7 +386,7 @@
     },
     {
       "id": 13,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Breast - Boneless",
       "des_1": "Boneless fillets: special nakhre for special cuts",
       "Weight": "450gms",
@@ -398,7 +398,7 @@
     },
     {
       "id": 14,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Curry Cut - Large Pieces",
       "des_1": "Fresh Nakhre for tender bone-in & boneless chicken cuts",
       "Weight": "500gms",
@@ -410,7 +410,7 @@
     },
     {
       "id": 15,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Gizzard",
       "des_1": "12-14 pieces of Chicken Gizzard",
       "Weight": "300gms",
@@ -422,7 +422,7 @@
     },
     {
       "id": 16,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Curry Cut - Large Pieces (Large Pack)",
       "des_1": "Cut & cleaned bone-in & boneless chicken",
       "Weight": "1000gms",
@@ -433,7 +433,7 @@
     },
     {
       "id": 17,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Liver",
       "des_1": "Special cuts & special nakhre: tender juicy Chicken Liver",
       "Weight": "350gms",
@@ -445,7 +445,7 @@
     },
     {
       "id": 18,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Tender Spring Chicken Curry Cut",
       "des_1": "14-16 pieces cut from a whole spring chicken.",
       "Weight": "800gms",
@@ -456,7 +456,7 @@
     },
     {
       "id": 19,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Leg Curry Cut - Large Pieces",
       "des_1": "4-6 Large bone-in pieces cut from the leg",
       "Weight": "300gms",
@@ -468,7 +468,7 @@
     },
     {
       "id": 20,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Afghani Murgh Seekh Kebab | Ready in 8 Minutes",
       "des_1": "Flavourful minced chicken crafted by our Nakhrebaaz team",
       "Weight": "Pieces: 4",
@@ -480,7 +480,7 @@
     },
     {
       "id": 21,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Sichuan Chilli Chicken (Mini) | Ready to Cook",
       "des_1": "A spicy meaty treat from our team of Nakhrebaaz chefs",
       "Weight": "Pieces: 10-12",
@@ -492,7 +492,7 @@
     },
     {
       "id": 22,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chicken Fry Cut",
       "des_1": "Small cuts of chicken perfect for frying",
       "Weight": "500gms",
@@ -504,7 +504,7 @@
     },
     {
       "id": 23,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Chunky Butter Chicken Spread (Single Serve)",
       "des_1": "Mildly spiced chunks of freshly roasted chicken blended with the ever popular, Butter Chicken base.",
       "Weight": "Pieces: 1",
@@ -515,7 +515,7 @@
     },
     {
       "id": 24,
-      "quantity": 0,
+      "quantity": 1,
       "Name": "Creamy Afghani Chicken | Ready to Cook",
       "des_1": "Our Nakhrebaaz chefs present pre-marinated, tender chicken",
       "Weight": "Pieces: 14-16",
